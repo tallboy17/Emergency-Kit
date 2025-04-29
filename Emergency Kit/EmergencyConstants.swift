@@ -1,5 +1,6 @@
 import Foundation
 import CoreLocation
+import SwiftUI
 
 enum EmergencyConstants {
     static let defaultServices: [DefaultService] = [
